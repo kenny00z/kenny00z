@@ -66,10 +66,10 @@ I`m a spanish full stack developer.<br>
 ## You can find me here 👇:
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/js-garcia-fernandez/) <br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/js-garcia-fernandez/)<br>
  My LinkedIn Bio
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white)](js.garcia.fernandez.com) <br>
+![Gmail](https://img.shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white)<br>
 js.garcia.fernandez@gmail.com <br>
 </div>
 
