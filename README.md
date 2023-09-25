@@ -65,10 +65,7 @@ I`m a spanish full stack developer.<br>
     left: 10.5%
     ">👉  js.garcia.fernandez@gmail.com </span><br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/js-garcia-fernandez/)
-<span style="position: absolute;
-    top: 45%;
-    left:13%
-    ">👉 My LinkedIn Bio</span>
+<span>👉 My LinkedIn Bio</span>
 
 
 
