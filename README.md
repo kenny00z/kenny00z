@@ -1,4 +1,4 @@
-# Hello there, I’m @kenny00z (Jesús García) 👾
+# Hello there, I’m @kenny00z (Jesús García)👾
 I`m a spanish full stack developer.<br>
 🖥️ Javascript, HTML, CSS, Vue.js, Java, Spring Boot, MySQL and C 🖥️
 
