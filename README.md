@@ -1,4 +1,4 @@
-# Hello there, I’m @kenny00z (Jesús García)👾
+# Hello there, I’m @kenny00z (Jesús García) 👾
 I`m a spanish full stack developer.<br>
 🖥️ Javascript, HTML, CSS, Vue.js, Java, Spring Boot, MySQL and C 🖥️
 
@@ -50,8 +50,10 @@ I`m a spanish full stack developer.<br>
   </li>
 </ul>
 
-## About my Github:
 <div align="center">
+
+## About my Github:
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenny00z&theme=blue-green)
 ![GitHub metrics](https://metrics.lecoq.io/kenny00z)  
@@ -59,13 +61,17 @@ I`m a spanish full stack developer.<br>
 
 </div>
 
+<div align="center">
+
 ## You can find me here 👇:
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white)](js.garcia.fernandez.com)<span style="position: absolute;
-    top: -8.5%;
-    left: 10.5%
-    ">👉  js.garcia.fernandez@gmail.com </span><br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/js-garcia-fernandez/)
-<span>👉 My LinkedIn Bio</span>
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/js-garcia-fernandez/) <br>
+ My LinkedIn Bio
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white)](js.garcia.fernandez.com) <br>
+js.garcia.fernandez@gmail.com <br>
+</div>
 
 
 
