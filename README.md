@@ -55,7 +55,7 @@ I`m a spanish full stack developer.<br>
 
 ## About my Github:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenny00z&theme=blue-green)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenny00z&theme=blue-green)<br>
 ![GitHub metrics](https://metrics.lecoq.io/kenny00z)  
 <!--![Coms stats](https://github-readme-stats.vercel.app/api?username=kenny00z&theme=blue-green) -->
 
